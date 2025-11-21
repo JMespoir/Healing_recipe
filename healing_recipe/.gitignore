@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Env files
+.env
+
+# macOS metadata
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+**/logs/
